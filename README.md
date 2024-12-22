@@ -160,8 +160,4 @@ To remove the Docker container and image:
    docker rmi react-docker-app
    ```
 
----
-
-## Conclusion
-You have successfully containerized a React application with Docker and served it using Nginx. This setup is optimized for production with a small image size and efficient delivery of static files. For further optimization, consider using a CDN for static file distribution.
 
